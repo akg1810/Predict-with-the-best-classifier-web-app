@@ -1,0 +1,1 @@
+web: sh setup.txt && streamlit run webapp2.py
