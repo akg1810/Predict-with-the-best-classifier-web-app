@@ -9,7 +9,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
-st.title("Predict with the Best Classifier")
+st.title("The Right Choice")
 st.write("""
 # Explore different classifier
 Which one is the best?
